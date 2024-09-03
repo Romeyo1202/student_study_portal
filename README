@@ -1,0 +1,7 @@
+PIP INSTALL
+
+download youtube search
+    pip install youtube-search-python
+
+wikipedia search
+    pip install wikipedia
